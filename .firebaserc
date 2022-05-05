@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-ang-6977c": {
+      "hosting": {
+        "auth-ang-fire": [
+          "crud-ang-6977c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-ang-6977c"
+  }
+}
